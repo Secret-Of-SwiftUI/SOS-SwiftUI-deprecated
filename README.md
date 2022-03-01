@@ -10,3 +10,14 @@
 
 ### 🎬 YOUTUBE
 * [개발하는 정대리 (SwiftUI 뽀개기 시리즈)](https://www.youtube.com/watch?v=LiWtjXLlhYw&list=PLgOlaPUIbynqyJHiTEv7CFaXd8g5jtogT)
+
+<br/>
+
+## SOS-SwiftUI 스터디 모음집
+
+🗂 _**Discussions > Show and tell 에 정리되어 있는 내용입니다.**_
+
+| 날짜 | 작성자 | 제목 |
+|:--:|:--:|:--:|
+| `03/01` | `김현규` | [Property Wrapper - @State, @Binding](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/8) |
+| `03/01` | `신윤아` | [SwiftUI Tutorial 진행 중 어려웠던 개념 정리](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/7) |
