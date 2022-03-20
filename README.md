@@ -13,6 +13,7 @@
 
 ### 📖 Links
 * [SwiftOnTap](https://swiftontap.com/)
+* [@ObservedObject, @StateObject의 차이](https://pilgwon.github.io/post/state-object-vs-observed-object?fbclid=IwAR0FjXj7xNGF5ikWdElV2TVNA7KXGDaJUYvDVfRLYC1ZOdGkrlsBpcUnC0s)
 
 <br/>
 
