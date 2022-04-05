@@ -28,4 +28,10 @@
 | `03/11` | `신윤아` | [SwiftUI Tutorial 진행 중 어려웠던 개념 정리 2탄](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/12) |
 | `03/15` | `김태현` | [SwiftUI ForEach에 대한 고찰](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/14) |
 | `03/15` | `김현규` | [일단 냅다 올리자](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/15) |
-| `03/15` | `신윤아` | [SwiftUI Tutorial 진행 중 어려웠던 개념 정리 3탄](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/13) |
+| `03/22` | `신윤아` | [SwiftUI Tutorial 진행 중 어려웠던 개념 정리 4탄](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/18) |
+| `03/22` | `김현규` | [GeometryReader](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/19) |
+| `04/05` | `김현규` | [@ViewBuilder](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/20) |
+| `04/05` | `김현규` | [@frozen](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/21) |
+| `04/05` | `김태현` | [Adopting Swift Concurrency](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/22) |
+| `04/05` | `신윤아` | [[SwiftUI] drawingGroup()](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/23) |
+
