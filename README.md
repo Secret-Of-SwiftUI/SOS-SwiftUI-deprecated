@@ -34,4 +34,10 @@
 | `04/05` | `김현규` | [@frozen](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/21) |
 | `04/05` | `김태현` | [Adopting Swift Concurrency](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/22) |
 | `04/05` | `신윤아` | [[SwiftUI] drawingGroup()](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/23) |
+| `04/19` | `김태현` | [[SwiftUI] TabView Paging](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/24) |
+| `04/19` | `김태현` | [[SwiftUI] View Hidden Approach ](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/25) |
+| `04/19` | `김현규` | [[SwiftUI] ForEach 에서 index 도 사용하기](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/26) |
+| `04/26` | `김현규` | [SwiftUI) Podcast clone coding - Menu](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/27) |
+
+
 
