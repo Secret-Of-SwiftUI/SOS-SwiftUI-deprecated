@@ -38,6 +38,7 @@
 | `04/19` | `김태현` | [[SwiftUI] View Hidden Approach ](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/25) |
 | `04/19` | `김현규` | [[SwiftUI] ForEach 에서 index 도 사용하기](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/26) |
 | `04/26` | `김현규` | [[SwiftUI] Podcast clone coding - Menu](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/27) |
+| `05/10` | `김현규` | [[SwiftUI] Podcast clone coding - Menu](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions/28) |
 
 
 
